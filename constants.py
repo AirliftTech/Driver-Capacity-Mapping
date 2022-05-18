@@ -17,9 +17,9 @@
     #Format of files
         #Orders: Hour	Warehouse	forecasted_orders	Date
         #PU:     warehouse	city	potenial_utilization
-
-forecasted_orders_path= "C:/D/VSCODE/Rider Capacity Mapping/Holiday grouped data.xlsx"
-potential_utilization_path= "C:/D/VSCODE/Rider Capacity Mapping/potential_utilization.xlsx"
+        
+forecasted_orders_path= "C:/D/VSCODE/Rider Capacity Mapping/code/sample_ orders.xlsx"
+potential_utilization_path="C:/D/VSCODE/Rider Capacity Mapping/code/sample_utilization.xlsx"
 #output path used later to save all files from all skeletons
 output_path= ""
 buffer=0.9
